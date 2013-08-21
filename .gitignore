@@ -22,6 +22,7 @@
 *.tlh
 *.tmp
 *.ncb
+*.am
 
 .metadata
 bin/
