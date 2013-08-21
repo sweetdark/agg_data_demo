@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HC", "HC\HC.vcproj", "{B58F50AB-4F12-42C8-BBB1-91A04F5BC11B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "agg", "agg\agg.vcproj", "{D1B16FD5-F478-43F4-9A42-7D1D96BB984D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58F50AB-4F12-42C8-BBB1-91A04F5BC11B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B58F50AB-4F12-42C8-BBB1-91A04F5BC11B}.Debug|Win32.Build.0 = Debug|Win32
+		{B58F50AB-4F12-42C8-BBB1-91A04F5BC11B}.Release|Win32.ActiveCfg = Release|Win32
+		{B58F50AB-4F12-42C8-BBB1-91A04F5BC11B}.Release|Win32.Build.0 = Release|Win32
+		{D1B16FD5-F478-43F4-9A42-7D1D96BB984D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1B16FD5-F478-43F4-9A42-7D1D96BB984D}.Debug|Win32.Build.0 = Debug|Win32
+		{D1B16FD5-F478-43F4-9A42-7D1D96BB984D}.Release|Win32.ActiveCfg = Release|Win32
+		{D1B16FD5-F478-43F4-9A42-7D1D96BB984D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
